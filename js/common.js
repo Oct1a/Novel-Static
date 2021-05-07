@@ -1,6 +1,6 @@
 
 // 使用搭建的JSON代理 
-const URLPROXY = "http://jsonp.dllca.cn/?url=";
+const URLPROXY = "https://jsonp.dllca.cn/?url=";
 
 // 给网址编码
 const encode = function(url){
